@@ -1,0 +1,6 @@
+source 'https://rubygems.org' do
+  gem 'dotenv'
+  gem 'pry'
+  gem 'reek'
+  gem 'rspec'
+end
