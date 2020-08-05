@@ -30,7 +30,7 @@ The `nearest-fuel-station` directory includes a Rails app with some starter code
 
 This challenge will use information from the National Renewable Energy Laboratory. Sign up for an API key [here](https://developer.nrel.gov/signup/). If you have any trouble obtaining an API key, please let us know.
 
-Once you have your API key, update the application based on the user story below.
+Once you have your API key, update the application based on the user story below using the API endpoint documented [here](https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/nearest/#station-count-record-fields).
 
 ```
 As a user
