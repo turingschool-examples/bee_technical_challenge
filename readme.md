@@ -39,7 +39,7 @@ And I select "Turing" form the start location drop down (Note: Use the existing 
 And I click "Find Nearest Electric Station"
 Then I should be on page "/search"
 And I should see a count of Electric Stations within 5 miles of my location.
-And I should see details about the five closest electric fuel station to Turing, including their:
+And I should see details about the five closest electric fuel stations to Turing, including their:
 
 - Name
 - Address
