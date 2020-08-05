@@ -26,7 +26,11 @@ Refactor the code to make that test pass, then make an update to this document t
 
 ## Rails API Consumption
 
-The `nearest-fuel-station` directory includes a Rails app with some starter code and a signle passing test. Update the application based on the user story below.
+The `nearest-fuel-station` directory includes a Rails app with some starter code and a signle passing test.
+
+This challenge will use information from the National Renewable Energy Laboratory. Sign up for an API key [here](https://developer.nrel.gov/signup/). If you have any trouble obtaining an API key, please let us know.
+
+Once you have your API key, update the application based on the user story below.
 
 ```
 As a user
@@ -46,8 +50,8 @@ And I should see details about the five closest electric fuel station to Turing,
 Once you've finished, answer the questions below in this document.
 
 * At a high level, how did you organize the code that you added? For example, if you added a class or classes, what responsibilities do they have? Are there alternatives you considered or could envision? If so, why did you choose this path instead?
-* This is sometimes used as a mid-mod assessment for students in Module 3. In Module 2 they spend a lot of time memorizing the basic rules and conventions of Rails, but in Module 3 we ask them to be more creative in their problem solving and create the classes they need to organize their code. Sometimes students struggle with this change, and try to memorize any patterns instructors provide when going over a challenge like this. What strategies would you recommend to help students understand that there are many different approaches they could take to solve this problem?
-* We frequently ask students to focus on their problem solving process in lieu of the outcome of a timed challenge. How would you describe your process to this challenge to a group of students who might not yet be very good at articulating how they go about solving a problem? What could you do to help students begin to articulate their own approach to technical problems?
+* This is sometimes used as a mid-mod assessment for students in Module 3. In Module 2 students spend a lot of time memorizing the basic rules and conventions of Rails, but in Module 3 we ask them to be more creative in their problem solving and create the classes they need to organize their code (even if it's not a model, view, or a controller). Sometimes students struggle with this change, and try to memorize any patterns instructors provide when going over a challenge like this. What strategies would you recommend to help students understand that there are many different approaches they could take to solve this problem?
+* We frequently ask students to focus on their problem solving *process* in lieu of the *outcome* of a timed challenge. At a high level, how would you describe your process to this challenge to a group of students who might not yet be very good at talking about how they go about solving a problem? What strategies could you use to help students begin to articulate their own approach to technical problems?
 
 ## Submission
 
