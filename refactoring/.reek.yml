@@ -1,0 +1,5 @@
+---
+
+detectors:
+  UtilityFunction:
+    enabled: false
