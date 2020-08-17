@@ -35,7 +35,7 @@ Once you have your API key, update the application based on the user story below
 ```
 As a user
 When I visit "/"
-And I select "Turing" form the start location drop down (Note: Use the existing search form)
+And I select "Turing" from the start location drop down (Note: Use the existing search form)
 And I click "Find Nearest Electric Station"
 Then I should be on page "/search"
 And I should see a count of Electric Stations within 5 miles of my location.
