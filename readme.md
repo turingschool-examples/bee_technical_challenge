@@ -55,4 +55,4 @@ Once you've finished, answer the questions below in this document.
 
 ## Submission
 
-In order to submit, zip this directory and then send via email to ehickmann@turing.edu, and alex@turing.edu.
+In order to submit, zip this directory and then send via email to ellenmary@turing.edu, and alex@turing.edu.
