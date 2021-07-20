@@ -7,6 +7,7 @@ There are two pieces to this challenge:
 
 Additional details on each are included below.
 
+*We recommend spending no more than 3 hours on this challenge.*
 In order to complete these challenges, clone (don't fork) this repository. Make your changes and commits in your cloned repository.
 
 ## Refactoring
