@@ -28,7 +28,7 @@ Refactor the code to make that test pass, then make an update to this document t
 
 ## Rails API Consumption
 
-The `nearest-fuel-station` directory includes a Rails app with some starter code and a signle passing test.
+The `nearest-fuel-station` directory includes a Rails app with some starter code and a single passing test.
 
 This challenge will use information from the National Renewable Energy Laboratory. Sign up for an API key [here](https://developer.nrel.gov/signup/). If you have any trouble obtaining an API key, please let us know.
 
@@ -57,4 +57,4 @@ Once you've finished, answer the questions below in this document.
 
 ## Submission
 
-In order to submit, zip this directory and then send via email to ellenmary@turing.edu, and alex@turing.edu.
+In order to submit, zip this directory, upload it to google drive and email the link to the google drive folder to alex@turing.edu.
