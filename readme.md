@@ -7,7 +7,7 @@ There are two pieces to this challenge:
 
 Additional details on each are included below.
 
-We recommend spending **no more than 3 hours** on this challenge. 
+We recommend spending **no more than 3 hours** on this challenge.
 
 In order to complete these challenges, clone (don't fork) this repository. Make your changes and commits in your cloned repository.
 
@@ -57,4 +57,4 @@ Once you've finished, answer the questions below in this document.
 
 ## Submission
 
-In order to submit, zip this directory, upload it to google drive and email the link to the google drive folder to alex@turing.edu.
+In order to submit, zip this directory, upload it to google drive and email the link to the google drive folder to coree@turing.edu.
